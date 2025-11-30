@@ -106,15 +106,15 @@ Model of car page
 
 ## HTML - *https://validator.w3.org/nu/*
 
-![Image](assets/tests/landing.png)
+![Image](assets/tests/landing.jpg)
 
-![Image](assets/tests/mexico.png)
+![Image](assets/tests/mexico.jpg)
 
-![Image](assets/tests/1800.png)
+![Image](assets/tests/1800.jpg)
 
-![Image](assets/tests/2000.png)
+![Image](assets/tests/2000.jpg)
 
-![Image](assets/tests/css.png)
+![Image](assets/tests/css.jpg)
 
 ***
 

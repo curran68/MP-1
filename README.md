@@ -1,6 +1,6 @@
 # MileStone Project 1 Created by Mark Curran - Ford MK2 RS Escorts
 
-## *https://curran68.github.io/escort-2*
+## *https://curran68.github.io/MP-1/*
 
 # Introduction
 
@@ -94,11 +94,11 @@ Below are my wireframes which show my idea/layout.
 
 Landing page
 
-![Image](assets/readme/landing.jpg)
+![Image](assets/tests/landing.jpg)
 
 Model of car page
 
-![Image](assets/readme/cars.jpg)
+![Image](assets/tests/cars.jpg)
 
 ***
 
@@ -106,15 +106,15 @@ Model of car page
 
 ## HTML - *https://validator.w3.org/nu/*
 
-![Image](assets/readme/landing.png)
+![Image](assets/tests/landing.png)
 
-![Image](assets/readme/mexico.png)
+![Image](assets/tests/mexico.png)
 
-![Image](assets/readme/1800.png)
+![Image](assets/tests/1800.png)
 
-![Image](assets/readme/2000.png)
+![Image](assets/tests/2000.png)
 
-![Image](assets/readme/css.png)
+![Image](assets/tests/css.png)
 
 ***
 
@@ -122,7 +122,7 @@ Model of car page
 <br>
 
 
-![Image](assets/readme/performance.jpg)
+![Image](assets/tests/performance.jpg)
 
 <br>
 
